@@ -1,0 +1,13 @@
+{
+  "note": "SYNTHETIC masks demo only - NOT dissertation results",
+  "demo_mIoU": 0.8336,
+  "demo_mean_Dice": 0.9089,
+  "per_class_IoU": [
+    0.8672,
+    0.8
+  ],
+  "per_class_Dice": [
+    0.9289,
+    0.8889
+  ]
+}
